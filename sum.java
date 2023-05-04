@@ -5,5 +5,6 @@ public class sum{
     int s = a+b;
 
     System.out.println("\n The sum of "+a+" and "+b+" is = "+s);
+    System.out.println("\nHere the twice of the sum of two numbers a & b: "+(2*s));
   }
 }
